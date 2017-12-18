@@ -1,0 +1,75 @@
+﻿  Tree.cpp
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\tree.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\tree.cpp(103): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\tree.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\tree.cpp(261): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\tree.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\tree.cpp(284): warning C4018: '<' : signed/unsigned mismatch
+  Source.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : macro redefinition
+          c:\users\ieklipse\desktop\block world 3d\glfw\glfw3.h(85) : see previous definition of 'APIENTRY'
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(60): warning C4244: 'initializing' : conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(146): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(147): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(151): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(152): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(153): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(154): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(156): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(358): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(459): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(471): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(490): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(492): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(506): warning C4244: 'initializing' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(512): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(536): warning C4244: 'argument' : conversion from 'double' to 'GLclampf', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(538): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(542): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(543): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(546): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(598): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(603): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\source.cpp(627): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(17898): warning C4244: 'initializing' : conversion from 'double' to 'const float', possible loss of data
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(17890) : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_draw(cimg_library::CImg<float>::_cimg_math_parser &)'
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(16130) : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_draw(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(20901) : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(20890) : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<float> *const ,cimg_library::CImgList<float> *const ) const'
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(20885) : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<float> *const ,cimg_library::CImgList<float> *const ) const' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(32654) : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(55338) : see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(17905): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+  Plane.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : macro redefinition
+          c:\users\ieklipse\desktop\block world 3d\glfw\glfw3.h(85) : see previous definition of 'APIENTRY'
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(71): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(107): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(132): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(243): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(252): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\plane.cpp(254): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(17898): warning C4244: 'initializing' : conversion from 'double' to 'const float', possible loss of data
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(17890) : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_draw(cimg_library::CImg<float>::_cimg_math_parser &)'
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(16130) : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_draw(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(20901) : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(20890) : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<float> *const ,cimg_library::CImgList<float> *const ) const'
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(20885) : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<float> *const ,cimg_library::CImgList<float> *const ) const' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(32654) : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(55338) : see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+c:\users\ieklipse\desktop\block world 3d\cimg\cimg.h(17905): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+  Character.cpp
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\character.cpp(297): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+c:\users\ieklipse\desktop\block world 3d\blockworldtree\character.cpp(588): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+  Block.cpp
+  Generating Code...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\iEklipse\Desktop\Block World 3D\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\iEklipse\Desktop\Block World 3D\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\iEklipse\Desktop\Block World 3D\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\iEklipse\Desktop\Block World 3D\Debug\SOIL.pdb'; linking object as if no debug info
+  BlockWorldTree.vcxproj -> C:\Users\iEklipse\Desktop\Block World 3D\Debug\Block World 3D.exe
